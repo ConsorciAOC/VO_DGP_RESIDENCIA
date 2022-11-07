@@ -1,6 +1,5 @@
 # VO_DGP_RESIDENCIA
 
-![](RackMultipart20221104-1-9grt2z_html_f82d96c26cc03594.png)
 
 # **Via Oberta – DGP (Tràmits de residència)**
 
@@ -17,8 +16,8 @@
 | **A revisar per:** | Àrea de Tecnologia – Suport Tècnic |
 | **A aprovar per:** | Àrea de Tecnologia – Suport Tècnic |
 | **Llista de distribució:** |
- |
-| **Nom del document:** | RackMultipart20221104-1-9grt2z.doc |
+ 
+
 
 **Històric de revisions**
 
