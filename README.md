@@ -5,26 +5,6 @@
 
 # **Document d'integració del servei**
 
-
-**Control del document**
-
-**Informació general**
-
-| **Títol:** | Via Oberta – DGP (Residència) |
-| --- | --- |
-| **Creat per:** | Àrea de Tecnologia – Projectes |
-| **A revisar per:** | Àrea de Tecnologia – Suport Tècnic |
-| **A aprovar per:** | Àrea de Tecnologia – Suport Tècnic |
-| **Llista de distribució:** |
- 
-
-
-**Històric de revisions**
-
-| **Versió** | **Data** | **Autor** | **Comentaris** |
-| --- | --- | --- | --- |
-| V1.0 | 18/05/2022 | Roger Noguera i Arnau | Creació del document. |
-
 **Índex**
 
 - [1. Introducció](#1)
